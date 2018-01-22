@@ -19,6 +19,6 @@ function whileLoop(n) {
 
 function doWhileLoop(array) {
   do {
-    shift.array[0];
+    array = shift.array[0];
   } while (array.length > 0 && maybeTrue());
 }
