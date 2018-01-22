@@ -16,3 +16,9 @@ function whileLoop(n) {
   } 
   return 'done';
 }
+
+function doWhileLoop(array) {
+  do {
+    shift.array[0];
+  } while (array.length > 0 && maybeTrue());
+}
