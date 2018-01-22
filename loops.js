@@ -20,6 +20,6 @@ function whileLoop(n) {
 function doWhileLoop(array) {
   do {
     array.shift();
-    return arrayl
+    return array;
   } while (array.length > 0 && maybeTrue());
 }
